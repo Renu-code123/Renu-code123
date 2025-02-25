@@ -1,22 +1,23 @@
-👋 Hi, I’m Renu Kumari Prajapati (@Renu-code123)
-👀 I’m interested in
-Artificial Intelligence (AI) & Machine Learning (ML)
-Data Science & Analytics
-Web Development & Cyber Security
-Data Structures & Algorithms (DSA) for problem-solving
-🌱 I’m currently learning
-Cyber Security, Java, Operating Systems, and Theory of Automata
-Machine Learning & Data Science fundamentals
-Full-Stack Web Development
-💞️ I’m looking to collaborate on
-AI/ML and Data Science projects
-Open-source contributions in Web Development & Cyber Security
-Innovative problem-solving projects using technology
-📫 How to reach me
-GitHub: Renu-code123
-😄 Pronouns
-She/Her
+👋 Hi, I’m Renu Kumari Prajapati (@Renu-code123) <br>
+👀 I’m interested in<br>
+Artificial Intelligence (AI) & Machine Learning (ML)<br>
+Data Science & Analytics<br>
+Web Development & Cyber Security<br>
+Data Structures & Algorithms (DSA) for problem-solving<br>
+🌱 I’m currently learning<br>
+Cyber Security, Java, Operating Systems, and Theory of Automata<br>
+Machine Learning & Data Science fundamentals<br>
+Full-Stack Web Development<br>
+💞️ I’m looking to collaborate on<br>
+AI/ML and Data Science projects<br>
+Open-source contributions in Web Development & Cyber Security<br>
+Innovative problem-solving projects using technology<br>
+📫 How to reach me<br>
+GitHub: Renu-code123<br>
+Linkedin:<br>
+😄 Pronouns<br>
+She/Her<br>
 
-⚡ Fun fact
-I love exploring AI innovations, analyzing data, and building interactive web applications! 🚀
+⚡ Fun fact<br>
+I love exploring AI innovations, analyzing data, and building interactive web applications! 🚀<br>
 
