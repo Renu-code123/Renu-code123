@@ -14,7 +14,7 @@ Open-source contributions in Web Development & Cyber Security<br>
 Innovative problem-solving projects using technology<br>
 📫 How to reach me<br>
 GitHub: Renu-code123<br>
-Linkedin:https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNpMNotf4RgCR5B8qZ9pFHQ%3D%3D
+Linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNpMNotf4RgCR5B8qZ9pFHQ%3D%3D
 <br>
 😄 Pronouns<br>
 She/Her<br>
