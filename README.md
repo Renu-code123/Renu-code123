@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
+<<h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
 
 ---
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
@@ -61,14 +61,41 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/Renu-code123/YourProjectName1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName1&theme=dracula" /></a>
+  <a href="https://github.com/Renu-code123/YourProjectName2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName2&theme=dracula" /></a>
+</p>
+
+*(Replace `YourProjectName1` and `YourProjectName2` with your actual repo names)*
+
+---
+
 ## 📬 Connect with me
 
 <div align="left">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:youremail@gmail.com"> <!-- CHANGE THIS TO YOUR EMAIL -->
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/renu-kumari-prajapati">
+  <a href="https://www.linkedin.com/in/renu-kumari-prajapati"> <!-- LinkedIn link already correct -->
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/yourusername"> <!-- CHANGE THIS TO YOUR INSTAGRAM -->
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://twitter.com/yourusername"> <!-- CHANGE THIS TO YOUR TWITTER -->
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://youtube.com/@yourchannel"> <!-- CHANGE THIS TO YOUR YOUTUBE -->
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 </div>
 
