@@ -1,4 +1,4 @@
-<<h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
 
 ---
 
@@ -29,13 +29,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="230" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide=cpp&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=dracula&hide_border=false" height="230" alt="languages graph" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ---
 
@@ -44,7 +44,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -69,34 +68,28 @@
 ---
 
 ## 📌 Featured Projects
-
 <p align="left">
   <a href="https://github.com/Renu-code123/YourProjectName1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName1&theme=dracula" /></a>
   <a href="https://github.com/Renu-code123/YourProjectName2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName2&theme=dracula" /></a>
 </p>
 
-
 ---
 
 ## 📬 Connect with me
-
 <div align="left">
-  <a href="mailto:renu89857@gmail.com"> <!-- CHANGE THIS TO YOUR EMAIL -->
+  <a href="mailto:renu89857@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/renu-kumari-prajapati"> <!-- LinkedIn link already correct -->
+  <a href="https://www.linkedin.com/in/renu-kumari-prajapati">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/yourusername"> <!-- CHANGE THIS TO YOUR TWITTER -->
+  <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-
 </div>
 
 ---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Renu-code123/Renu-code123/output/snake.svg" alt="Snake animation" />
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Coding Banner" />
