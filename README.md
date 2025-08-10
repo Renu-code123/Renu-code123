@@ -30,8 +30,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="230" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide=cpp&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=dracula&hide_border=false" height="230" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide=python&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=dracula&hide_border=false" height="230" alt="languages graph" />
 </div>
+
 
 ---
 
@@ -97,6 +98,9 @@
 
 <br clear="both">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" alt="Coding Banner" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
