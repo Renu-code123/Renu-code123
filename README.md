@@ -93,8 +93,5 @@
 <br clear="both">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Coding Banner" />
-## 🌟 Thanks for Visiting!
-<div align="center">
-<img src="https://i.imgur.com/LyHic3i.gif" alt="amazing animation" width="600" />
-</div>
+
 
