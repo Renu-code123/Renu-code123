@@ -75,7 +75,6 @@
   <a href="https://github.com/Renu-code123/YourProjectName2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName2&theme=dracula" /></a>
 </p>
 
-*(Replace `YourProjectName1` and `YourProjectName2` with your actual repo names)*
 
 ---
 
