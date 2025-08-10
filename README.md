@@ -4,18 +4,18 @@
 
 👀 **I’m interested in:**
 - Artificial Intelligence (AI) & Machine Learning (ML)  
-- Data Science & Analytics  
-- Web Development & Cyber Security  
+- Data Science 
+- Web Development 
 - Data Structures & Algorithms (DSA) for problem-solving  
 
 🌱 **I’m currently learning:**
-- Cyber Security, Java, Operating Systems, Theory of Automata  
+- Java
 - Machine Learning & Data Science fundamentals  
 - Full-Stack Web Development  
 
 💞️ **I’m looking to collaborate on:**
 - AI/ML & Data Science projects  
-- Open-source contributions in Web Development & Cyber Security  
+- Open-source contributions in Web Development 
 - Innovative problem-solving projects using technology  
 
 📫 **How to reach me:**  
@@ -82,21 +82,16 @@
 ## 📬 Connect with me
 
 <div align="left">
-  <a href="mailto:youremail@gmail.com"> <!-- CHANGE THIS TO YOUR EMAIL -->
+  <a href="mailto:renu89857@gmail.com"> <!-- CHANGE THIS TO YOUR EMAIL -->
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/renu-kumari-prajapati"> <!-- LinkedIn link already correct -->
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/yourusername"> <!-- CHANGE THIS TO YOUR INSTAGRAM -->
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
   <a href="https://twitter.com/yourusername"> <!-- CHANGE THIS TO YOUR TWITTER -->
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://youtube.com/@yourchannel"> <!-- CHANGE THIS TO YOUR YOUTUBE -->
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
+
 </div>
 
 ---
