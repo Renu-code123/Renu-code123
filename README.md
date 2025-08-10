@@ -69,8 +69,8 @@
 
 ## 📌 Featured Projects
 <p align="left">
-  <a href="https://github.com/Renu-code123/YourProjectName1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName1&theme=dracula" /></a>
-  <a href="https://github.com/Renu-code123/YourProjectName2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName2&theme=dracula" /></a>
+  <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=YourProjectName1&theme=dracula" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.ahttps://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technologypp/api/pin/?username=Renu-code123&repo=YourProjectName2&theme=dracula" /></a>
 </p>
 
 ---
