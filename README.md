@@ -20,7 +20,7 @@
 ## 🌟 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
 </p>
 
@@ -34,10 +34,18 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+</p>
+
+---
+
 ## 🚀 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
@@ -96,4 +104,9 @@
 <!-- 🐍 Snake animation -->
 <p align="center">
   <img src="https://github.com/Renu-code123/Renu-code123/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<!-- 🌊 Extra cool animations -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6EC7&section=footer"/>
 </p>
