@@ -7,11 +7,11 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 Tech Explorer | Passionate Developer | Lifelong Learner
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
 🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
 
 - 🔭 Exploring **AI, ML, Data Science & Full-Stack Web Dev**  
-- 🌱 Currently learning **Java, MERN Stack, and ML fundamentals**  
+- 🌱 Currently learning **Java, MERN Stack, and AI/ML**  
 - 💡 Interested in **innovative projects & open-source contributions**  
 - ⚡ Fun fact: *I love mixing creativity 🎨 with technology 💻*  
 
