@@ -96,10 +96,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.%20–%20Cory%20House-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
+  <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
 </p>
-
-
 
 ---
 
