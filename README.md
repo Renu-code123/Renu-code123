@@ -7,8 +7,8 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 **Tech Explorer | Passionate Developer | Lifelong Learner**  
-🌍 From **India 🇮🇳** | INFJ | 💜  
+👩‍💻 Tech Explorer | Passionate Developer | Lifelong Learner
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
 
 - 🔭 Exploring **AI, ML, Data Science & Full-Stack Web Dev**  
 - 🌱 Currently learning **Java, MERN Stack, and ML fundamentals**  
@@ -90,7 +90,7 @@
 <p align="center">
   <a href="mailto:renu89857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/renu-kumari-prajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://x.com/9504_renu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
@@ -100,6 +100,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+</p>
+
 
 <!-- 🐍 Snake animation -->
 <p align="center">
