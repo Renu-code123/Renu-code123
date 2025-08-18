@@ -1,110 +1,93 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Renu-code123;Welcome+to+my+Profile!)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Renu+Kumari+Prajapati;AI+%7C+ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+</p>
 
-<h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
+---
+
+<h2 align="center">✨ About Me ✨</h2>
+
+👩‍💻 **Tech Explorer | Passionate Developer | Lifelong Learner**  
+🌍 From **India 🇮🇳** | INFJ | 💜  
+
+- 🔭 Exploring **AI, ML, Data Science & Full-Stack Web Dev**  
+- 🌱 Currently learning **Java, MERN Stack, and ML fundamentals**  
+- 💡 Interested in **innovative projects & open-source contributions**  
+- ⚡ Fun fact: *I love mixing creativity 🎨 with technology 💻*  
 
 ---
 
-👀 **I’m interested in:**
-- Artificial Intelligence (AI) & Machine Learning (ML)  
-- Data Science 
-- Web Development 
-- Data Structures & Algorithms (DSA) for problem-solving  
-
-🌱 **I’m currently learning:**
-- Java
-- Machine Learning & Data Science fundamentals  
-- Full-Stack Web Development  
-
-💞️ **I’m looking to collaborate on:**
-- AI/ML & Data Science projects  
-- Open-source contributions in Web Development 
-- Innovative problem-solving projects using technology  
-
-📫 **How to reach me:**  
-- **GitHub:** [Renu-code123](https://github.com/Renu-code123)  
-- **LinkedIn:** [Renu Kumari Prajapati](https://www.linkedin.com/in/renu-kumari-prajapati)  
-
-😄 **Pronouns:** She/Her  
-
-⚡ **Fun fact:** I love exploring AI innovations, analyzing data, and building interactive web applications! 🚀  
-
----
+## 🌟 GitHub Stats & Activity  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="230" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&locale=en&hide=cpp&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=dracula&hide_border=false" height="230" alt="languages graph" />
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renu-code123&layout=compact&theme=radical&hide_border=true" height="180"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
+</div>
 
----
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
----
-
-## 🛠 Tech Toolbox
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Cybersecurity" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Contribution Graph  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=react-dark&hide_border=false)
 
-## 📌 Featured Projects
-<p align="left">
+## 🛠 Tech Toolbox  
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF1493?style=for-the-badge&logo=openai&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge&logo=githubactions&logoColor=white)  
+
+</div>
+
+---
+
+## 📌 Featured Projects  
+
+<p align="center">
   <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=radical" />
   </a>
   <a href="https://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=radical" />
   </a>
 </p>
 
+---
+
+## 📬 Connect with me  
+
+<p align="center">
+  <a href="mailto:renu89857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/renu-kumari-prajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 ---
 
-## 📬 Connect with me
-<div align="left">
-  <a href="mailto:renu89857@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/renu-kumari-prajapati">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-</div>
-
----
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
+</p>
