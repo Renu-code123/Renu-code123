@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Renu-code123;Welcome+to+my+Profile!)
 
-<a href="https://www.gitanimals.org/">
-      <img src="https://render.gitanimals.org/guilds/673932991743754174/draw" width="600" height="300" alt="gitanimals"/></a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Renu-code123&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/Renu-code123" width="600" height="300"/></a>
 <h2 align="left">Hi 👋! My name is Renu Kumari Prajapati and I'm a passionate tech enthusiast, from India 🇮🇳</h2>
 
 ---
