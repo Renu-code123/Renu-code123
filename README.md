@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Muskan+Yadav;AI+%7C+ML+Enthusiast;Web+Developer;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Muskan;AI+%7C+ML+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF69B4&section=footer"/>
 </p>
