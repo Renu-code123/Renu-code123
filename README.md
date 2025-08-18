@@ -96,8 +96,9 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF6EC7&center=true&vCenter=true&width=1000&lines=“First,+solve+the+problem.+Then,+write+the+code.”+–+John+Johnson;“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”+–+Cory+House;“Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.”+–+Harold+Abelson" alt="Tech Quotes"/>
 </p>
+
 
 
 
