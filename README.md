@@ -96,11 +96,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF6EC7&center=true&vCenter=true&width=1000&lines=“First,+solve+the+problem.+Then,+write+the+code.”+–+John+Johnson;“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”+–+Cory+House;“Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.”+–+Harold+Abelson" alt="Tech Quotes"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.%20–%20Cory%20House-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
 </p>
-
-
-
 
 ---
 
