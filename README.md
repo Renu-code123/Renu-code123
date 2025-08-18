@@ -99,19 +99,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
 </p>
 
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
 </p>
 
-
-<!-- 🐍 Snake animation -->
-<p align="center">
-  <img src="https://github.com/Renu-code123/Renu-code123/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<!-- 🌊 Extra cool animations -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6EC7&section=footer"/>
-</p>
