@@ -14,6 +14,7 @@
 - 🌟 Interested in **Creative Coding**, **Data Visualization**, and **Smart Applications**  
 - 🌱 Currently exploring **React, Node.js, Python ML frameworks, and APIs**  
 - ⚡ Fun fact: I enjoy combining **design & logic** to make code both useful and beautiful  
+- ✨ Proudly made **92+ contributions** so far — and this is just the beginning 🚀  
 
 ---
 
