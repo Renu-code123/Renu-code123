@@ -8,7 +8,7 @@
 <h2 align="center">✨ About Me ✨</h2>
 
 👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code  
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code
 
 - 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
 - 🌱 Currently learning Java, MERN Stack, and AI/ML  
@@ -17,10 +17,10 @@
 
 ---
 
-## 🌟 GitHub Stats & Activity  
+## ​ GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
 </p>
 
@@ -28,13 +28,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
 </p>
 
+---
+
+##  Contribution Graph (Last 31 Days)
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2031%20Days%20Activity" width="95%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## ​ GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
@@ -42,15 +46,7 @@
 
 ---
 
-## 🚀 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
-</p>
-
----
-
-## 🛠 Tech Toolbox  
+## ​ Tech Toolbox  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,7 +68,7 @@
 
 ---
 
-## 📌 Featured Projects  
+## ​ Featured Projects  
 
 <p align="center">
   <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
@@ -85,7 +81,7 @@
 
 ---
 
-## 📬 Connect with me  
+## ​ Connect with me  
 
 <p align="center">
   <a href="mailto:renu89857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
