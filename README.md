@@ -1,37 +1,54 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+World!+I'm+Stuti+Tiwari;Coding+Innovator+%26+AI+Explorer;Open-Source+Contributor;Building+Smart+Apps+%26+Learning+Daily+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Renu+Kumari+Prajapati;AI+%7C+ML+Enthusiast;Web+Developer;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌱 About Me  
+<h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 **Developer & Innovator** | 🚀 Lifelong Learner | 🔍 Problem Solver  
-🌏 Based in India 🇮🇳 | 💻 Passionate about turning ideas into apps  
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
 
-- 🔭 Working on **Full-Stack Web Development**, **AI/ML Projects**, and **Open-Source Contributions**  
-- 🌟 Interested in **Creative Coding**, **Data Visualization**, and **Smart Applications**  
-- 🌱 Currently exploring **React, Node.js, Python ML frameworks, and APIs**  
-- ⚡ Fun fact: I enjoy combining **design & logic** to make code both useful and beautiful  
+- 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
+- 🌱 Currently learning Java, MERN Stack, and AI/ML  
+- 💡 Interested in innovative projects & open-source contributions  
+- ⚡ Fun fact: I love mixing creativity 🎨 with technology 💻  
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesiren23&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesiren23&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
 </p>
 
 ---
 
-<!-- 📊 GitHub Contribution Graph -->
-## 📊 Contribution Graph  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesiren23&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
+
+---
+
+## 🚀 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+</p>
+
+---
 
 ## 🛠 Tech Toolbox  
 
@@ -55,35 +72,35 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 📌 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/codesiren23/Personal-Finance-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codesiren23&repo=Personal-Finance-Manager&theme=radical" />
+  <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=radical" />
   </a>
-  <a href="https://github.com/codesiren23/Netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codesiren23&repo=Netflix-clone&theme=radical" />
+  <a href="https://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technology">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=radical" />
   </a>
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📬 Connect with me  
 
 <p align="center">
-  <a href="mailto:stuti@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/stuti-tiwari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/stuti_tiwari"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:renu89857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/renu-kumari-prajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://x.com/9504_renu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%22Innovation+is+the+art+of+turning+ideas+into+impact.%22-FF69B4?style=for-the-badge&logo=github&logoColor=white" width="1000" alt="Quote"/>
+  <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
 </p>
