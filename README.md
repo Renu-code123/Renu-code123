@@ -7,8 +7,8 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code  
 
 - 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
 - 🌱 Currently learning Java, MERN Stack, and AI/ML  
@@ -20,7 +20,7 @@
 ## 🌟 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
 </p>
 
