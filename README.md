@@ -20,13 +20,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesiren23&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&custom_title=Stuti's+GitHub+Overview" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesiren23&layout=compact&theme=merko&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codesiren23&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesiren23&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180"/>
 </p>
 
 ---
 
-## 🛠 Skills & Tools  
+## 🛠 Tech Toolbox  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,9 +36,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
