@@ -32,6 +32,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
 </p>
 
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true)
+
 ---
 
 ## 🏆 GitHub Trophies  
