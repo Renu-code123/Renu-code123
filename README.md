@@ -7,8 +7,8 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code  
 
 - 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
 - 🌱 Currently learning Java, MERN Stack, and AI/ML  
@@ -20,16 +20,16 @@
 ## 🌟 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=tokyonight"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
@@ -76,10 +76,10 @@
 
 <p align="center">
   <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=tokyonight" />
   </a>
   <a href="https://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=tokyonight" />
   </a>
 </p>
 
