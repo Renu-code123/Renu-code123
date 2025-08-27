@@ -34,10 +34,14 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
+<!-- 🔥 GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=Renu-code123&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
