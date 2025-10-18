@@ -7,8 +7,8 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code  
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
 
 - 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
 - 🌱 Currently learning Java, MERN Stack, and AI/ML  
@@ -32,6 +32,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
 </p>
 
+
 ---
 
 ## 🏆 GitHub Trophies  
@@ -46,13 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
-</p>
-
----
-
-### 🌈 Highlight: 12th Oct 2025 Contribution 🎉
-<p align="center">
-  <strong style="color:#FF6EC7;">✨ On 12th Oct 2025, I contributed to multiple projects and commits! Keep pushing forward 🚀 ✨</strong>
 </p>
 
 ---
