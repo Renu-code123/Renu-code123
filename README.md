@@ -51,6 +51,8 @@
 
 ---
 
+[![An image of @renucode123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
+
 ## 🛠 Tech Toolbox  
 
 <p align="center">
