@@ -1,60 +1,65 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Renu+Kumari+Prajapati;AI+%7C+ML+Enthusiast;Web+Developer;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+I'm+Renu+Kumari+Prajapati;AI+%7C+ML+Enthusiast;Web+Developer;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
+## ✨ About Me ✨
+<p align="center">
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker<br>
+🌍 From India 🇮🇳 | 💜 Turning Ideas into Code
+</p>
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
-
-- 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
-- 🌱 Currently learning Java, MERN Stack, and AI/ML  
-- 💡 Interested in innovative projects & open-source contributions  
-- ⚡ Fun fact: I love mixing creativity 🎨 with technology 💻  
+- 🔭 Exploring **AI, ML, Data Science & Full-Stack Web Development**  
+- 🌱 Currently learning **Java, MERN Stack & AI/ML**  
+- 💡 Interested in **innovative projects & open-source contributions**  
+- ⚡ Fun fact: I love **mixing creativity 🎨 with technology 💻**  
 
 ---
 
-## 🌟 GitHub Stats & Activity  
+## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=tokyo-night&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
-</p>
-
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🚀 Contribution Graph  
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Renu-code123&theme=tokyo-night&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
-## 🏆 Hacktoberfest 2025 Contribution badges 
 
-[![An image of @renucode123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
+## 🚀 Contribution Graph
 
-## 🛠 Tech Toolbox  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renu-code123&theme=react-dark&hide_border=true&radius=10" width="95%"/>
+</p>
+
+---
+
+## 🏅 Hacktoberfest 2025 & Badges
+
+<p align="center">
+  [![Holopin badges](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
+</p>
+
+---
+
+## 🛠 Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -70,26 +75,26 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML-008080?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=tokyo-night" />
   </a>
   <a href="https://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=tokyo-night" />
   </a>
 </p>
 
 ---
 
-## 📬 Connect with me  
+## 📬 Connect with me
 
 <p align="center">
   <a href="mailto:renu89857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
@@ -100,7 +105,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
+  <img src="https://img.shields.io/badge/%22Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.%22–Harold+Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
 </p>
 
 ---
