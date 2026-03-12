@@ -72,7 +72,8 @@
 </tr>
 </table>
 
-</div>
+</div
+---
 ## 🛠 Tech Toolbox  
 
 <p align="center">
