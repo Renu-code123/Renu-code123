@@ -56,10 +56,23 @@
 ---
 ## 🏆 GSSoC'25 Badges
 
-| Explorer Badge | Adventurer Badge |
-|---------------|-----------------|
-| <img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FExplorer-Badge.png&w=1920&q=75" width="160"> | <img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FAdventurer-Badge.png&w=1920&q=75" width="160"> |
----
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FExplorer-Badge.png&w=1920&q=75" width="160"><br>
+<b>Explorer Badge</b>
+</td>
+
+<td align="center">
+<img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FAdventurer-Badge.png&w=1920&q=75" width="160"><br>
+<b>Adventurer Badge</b>
+</td>
+</tr>
+</table>
+
+</div>
 ## 🛠 Tech Toolbox  
 
 <p align="center">
