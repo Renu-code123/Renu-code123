@@ -53,7 +53,12 @@
 ## 🏆 Hacktoberfest 2025 Contribution badges 
 
 [![An image of @renucode123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
+---
+## 🏆 GSSoC'25 Badges
 
+<img src="https://example.com/explorer-badge.png" width="150">
+<img src="https://example.com/adventurer-badge.png" width="150">
+---
 ## 🛠 Tech Toolbox  
 
 <p align="center">
