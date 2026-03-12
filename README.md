@@ -56,8 +56,10 @@
 ---
 ## 🏆 GSSoC'25 Badges
 
-<img src="https://example.com/explorer-badge.png" width="150">
-<img src="https://example.com/adventurer-badge.png" width="150">
+<p align="center">
+  <img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FExplorer-Badge.png&w=1920&q=75" width="180" alt="GSSoC Explorer Badge"/>
+  <img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FAdventurer-Badge.png&w=1920&q=75" width="180" alt="GSSoC Adventurer Badge"/>
+</p>
 ---
 ## 🛠 Tech Toolbox  
 
