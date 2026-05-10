@@ -53,14 +53,12 @@
 # 🌟 Current Focus
 
 ```yaml
-```
 Full Stack Development
 Artificial Intelligence
 Machine Learning
 Data Science
 DSA & Problem Solving
 Open Source Contributions
-```
 ```
 
 </td>
