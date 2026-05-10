@@ -1,14 +1,20 @@
+<!-- 🌸 Animated Header -->
+
 <div align="center">
 
-# Hey there !! 👋, I'm Renu Kumari Prajapati 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Hey+there+!!+👋+I'm+Renu+Kumari+Prajapati;Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
-### 🌟 Full Stack Developer | AI • ML • Data Science Enthusiast
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%7C+ML+%7C+Data+Science+Explorer;Open+Source+Contributor;Building+Real-World+Projects;Looking+for+Internship+Opportunities+🚀" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Renu-code123&label=Profile+Views&color=BB6BD9&style=for-the-badge" />
 
-<br>
+<br><br>
 
-![](https://komarev.com/ghpvc/?username=Renu-code123&label=Profile+Views&color=8A2BE2&style=for-the-badge)
+<img src="https://img.shields.io/badge/AI-Enthusiast-8E2DE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Science-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full-Stack-Developer-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge"/>
 
 </div>
 
@@ -18,31 +24,26 @@
 <tr>
 <td width="55%">
 
-## ✨ About Me
+# ✨ About Me
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
+👩‍💻 Passionate Developer | Tech Explorer | Creative Thinker  
 
-🌍 From India 🇮🇳 | 🚀 Turning Ideas into Code  
+🌍 From India 🇮🇳 | 🚀 Turning Ideas into Reality Through Code  
 
 <br>
 
-- 🔭 Exploring **AI, ML, Data Science & Full Stack Development**
-- 🌱 Currently learning **Java, MERN Stack & AI/ML**
-- 🚀 Contributing to **Open Source Projects**
-- 💡 Interested in innovative and real-world projects
-- 💼 Looking for **Internship Opportunities**
-- ⚡ Passionate about technology, creativity & problem solving
-- 📚 Always learning and exploring new technologies
+- 🔭 Exploring **Artificial Intelligence, Machine Learning & Data Science**
+- 💻 Passionate about **Full Stack Web Development**
+- 🚀 Active **Open Source Contributor**
+- 🌱 Continuously learning modern technologies & development
+- ⚡ Love building creative and real-world projects
+- 💡 Interested in innovation, problem-solving & smart systems
+- 📚 Always curious to learn something new every day
 
-</td>
+<br>
 
-<td width="45%">
 
-<img align="center" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</td>
-</tr>
-</table>
+---
 
 ---
 ## 🌟 GitHub Stats & Activity  
