@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/github/stars/Renu-code123?affiliations=OWNER&style=for-the-badge&logo=github&color=8A2BE2&labelColor=1a1b27"/>
 <img src="https://komarev.com/ghpvc/?username=Renu-code123&style=for-the-badge&color=FF69B4"/>
 
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
 </div>
 
 ---
@@ -41,6 +45,44 @@
 - 📚 Always learning and exploring new technologies
 
 <br>
+
+<div align="center">
+
+<img width="90%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+# 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,tensorflow,git,github,vscode&perline=6"/>
+</p>
+
+</td>
+
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDeveloper.gif"/>
+
+<br><br>
+
+<img width="100%" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 # 🛠️ Tech Stack
 
