@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://media.tenor.com/nGMV0X8VnHAAAAAC/anime-girl.gif"/>
+<img align="center" width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </div>
 
