@@ -36,30 +36,13 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://i.pinimg.com/originals/ea/d5/fb/ead5fb90b3ee304ba41d77d46e2e09e3.gif"/>
+<img align="center" width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 </div>
 
 </td>
 </tr>
 </table>
-
----
-## 🌟 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-code123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renu-code123&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=radical"/>
-</p>
-
 
 ---
 
