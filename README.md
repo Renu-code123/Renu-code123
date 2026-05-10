@@ -6,14 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Renu-code123&label=Total+Profile+Views&color=8A2BE2&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Renu-code123?label=Followers&style=for-the-badge&color=BB6BD9" />
-
-<img src="https://img.shields.io/github/stars/Renu-code123?affiliations=OWNER&style=for-the-badge&color=6C63FF" />
-
 </div>
 
 ---
@@ -52,6 +44,7 @@
 </tr>
 </table>
 
+---
 ---
 ## 🌟 GitHub Stats & Activity  
 
