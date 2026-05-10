@@ -4,11 +4,15 @@
 
 ### 🌟 Full Stack Developer | AI • ML • Data Science Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;Building+Creative+%26+Real-World+Projects+✨;Always+Learning+New+Technologies+🌸" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Renu-code123&label=Profile+Views&color=8A2BE2&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Renu-code123&label=Total+Profile+Views&color=8A2BE2&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Renu-code123?label=Followers&style=for-the-badge&color=BB6BD9" />
+
+<img src="https://img.shields.io/github/stars/Renu-code123?affiliations=OWNER&style=for-the-badge&color=6C63FF" />
 
 </div>
 
@@ -27,10 +31,11 @@
 <br>
 
 - 🔭 Exploring **AI, ML, Data Science & Full Stack Development**
-- 🌱 Currently learning **Java, MERN Stack & AI/ML**
+- 🌱 Currently learning **Java, MERN Stack, DSA & AI/ML**
+- ⚡ Practicing **Data Structures & Algorithms**
 - 🚀 Contributing to **Open Source Projects**
 - 💡 Interested in innovative and real-world projects
-- ⚡ Passionate about technology, creativity & problem solving
+- 🧠 Love solving coding & problem-solving challenges
 - 📚 Always learning and exploring new technologies
 
 </td>
@@ -39,7 +44,7 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </div>
 
@@ -48,7 +53,7 @@
 </table>
 
 ---
----
+
 ## 🌟 GitHub Stats & Activity  
 
 <p align="center">
