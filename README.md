@@ -6,14 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Renu-code123&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renu-code123&theme=tokyonight" />
-
 </div>
 
 ---
@@ -53,8 +45,6 @@
 </table>
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
