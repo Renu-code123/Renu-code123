@@ -54,33 +54,6 @@
 
 <br>
 
-# 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,tensorflow,git,github,vscode&perline=6"/>
-</p>
-
-</td>
-
-<td width="45%" valign="top">
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDeveloper.gif"/>
-
-<br><br>
-
-<img width="100%" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github"/>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
