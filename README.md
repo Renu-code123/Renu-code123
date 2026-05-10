@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:FF69B4&text=Renu%20Kumari%20Prajapati&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20ML%20DS%20Explorer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,100:FF69B4&text=Renu%20Kumari%20Prajapati&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20ML%20DS%20Explorer&descAlignY=60"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=BB6BD9&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey+there+!!+👋;Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=BB6BD9&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" />
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 # ✨ About Me
 
@@ -35,15 +35,17 @@
 - 💡 Interested in innovative and real-world projects
 - 🧠 Love solving coding & problem-solving challenges
 - 📚 Always learning and exploring new technologies
-- ✨ Building projects with creativity & innovation
+- ✨ Building impactful and scalable applications
 
 <br>
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,tensorflow,git,github,vscode"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,tensorflow,git,github,vscode&perline=6"/>
+</p>
 
-<br><br>
+<br>
 
 # 🌟 Current Focus
 
@@ -58,7 +60,7 @@ Open Source Contributions
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
 <div align="center">
 
@@ -66,7 +68,7 @@ Open Source Contributions
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Renu-code123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github"/>
 
 </div>
 
@@ -112,7 +114,7 @@ Open Source Contributions
 
 # 🏅 Hacktoberfest & Open Source
 
-[![An image of @renucode123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
+[![Holopin badges](https://holopin.me/renucode123)](https://holopin.io/@renucode123)
 
 </div>
 
@@ -122,21 +124,8 @@ Open Source Contributions
 
 # 🌸 GSSoC'25 Badges
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FExplorer-Badge.png&w=1920&q=75" width="150"/><br>
-<b>Explorer Badge</b>
-</td>
-
-<td align="center">
-<img src="https://gssoc-tracker.netlify.app/_next/image?url=%2Fbadges%2FAdventurer-Badge.png&w=1920&q=75" width="150"/><br>
-<b>Adventurer Badge</b>
-</td>
-
-</tr>
-</table>
+<img width="150" src="https://gssoc-tracker.netlify.app/badges/explorer.png"/>
+<img width="150" src="https://gssoc-tracker.netlify.app/badges/adventurer.png"/>
 
 </div>
 
@@ -154,7 +143,6 @@ Open Source Contributions
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-8A2BE2?style=for-the-badge"/>
 
 </div>
 
@@ -165,11 +153,11 @@ Open Source Contributions
 # 📌 Featured Projects
 
 <a href="https://github.com/Renu-code123/Fruit-freshness-Detection-using-Machine-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=tokyonight&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Fruit-freshness-Detection-using-Machine-Learning&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Renu-code123/Personal-Finance-Manager-with-MERN-Technology">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=tokyonight&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Renu-code123&repo=Personal-Finance-Manager-with-MERN-Technology&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
