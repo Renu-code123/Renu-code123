@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://media.tenor.com/f3KQxwP6tSIAAAAC/anime-computer.gif"/>
+<img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </div>
 
