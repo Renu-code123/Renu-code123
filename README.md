@@ -4,7 +4,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=BB6BD9&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" />
+# Hey there !! 👋, I'm Renu Kumari Prajapati 🚀
+
+### 🌟 Full Stack Developer | AI • ML • Data Science Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
 <br><br>
 
@@ -22,9 +26,9 @@
 
 # ✨ About Me
 
-👩‍💻 Passionate Developer | Tech Explorer | Knowledge Seeker  
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
 
-🌍 From India 🇮🇳 | 🚀 Turning Ideas into Reality Through Code  
+🌍 From India 🇮🇳 | 🚀 Turning Ideas into Code  
 
 <br>
 
@@ -35,7 +39,6 @@
 - 💡 Interested in innovative and real-world projects
 - 🧠 Love solving coding & problem-solving challenges
 - 📚 Always learning and exploring new technologies
-- ✨ Building impactful and scalable applications
 
 <br>
 
@@ -64,7 +67,7 @@ Open Source Contributions
 
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/L8K62iTDkEsAAAAC/anime-girl.gif"/>
+<img align="center" width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 <br><br>
 
@@ -185,6 +188,10 @@ Open Source Contributions
 ---
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF69B4,100:8A2BE2&section=footer"/>
 
