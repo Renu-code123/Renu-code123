@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" width="100%" src="https://i.pinimg.com/originals/ea/d5/fb/ead5fb90b3ee304ba41d77d46e2e09e3.gif"/>
 
 </div>
 
