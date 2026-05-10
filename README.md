@@ -1,22 +1,50 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B!+I'm+Renu+Kumari+Prajapati;AI+%7C+ML+Enthusiast;Web+Developer;Open-Source+Contributor;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# Hey there !! 👋, I'm Renu Kumari Prajapati 🚀
+
+### 🌟 Full Stack Developer | AI • ML • Data Science Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%7C+ML+%7C+Data+Science+Explorer;Open+Source+Contributor;Building+Real-World+Projects;Looking+for+Internship+Opportunities+🚀" alt="Typing SVG" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Renu-code123&label=Profile+Views&color=8A2BE2&style=for-the-badge)
+
+</div>
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
+<table>
+<tr>
+<td width="55%">
 
-👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker
-🌍 From India 🇮🇳 | 💜 Turning Ideas into Code 
+## ✨ About Me
 
-- 🔭 Exploring AI, ML, Data Science & Full-Stack Web Dev  
-- 🌱 Currently learning Java, MERN Stack, and AI/ML  
-- 💡 Interested in innovative projects & open-source contributions  
-- ⚡ Fun fact: I love mixing creativity 🎨 with technology 💻  
+👩‍💻 Tech Explorer | Passionate Developer | Knowledge Seeker  
+
+🌍 From India 🇮🇳 | 🚀 Turning Ideas into Code  
+
+<br>
+
+- 🔭 Exploring **AI, ML, Data Science & Full Stack Development**
+- 🌱 Currently learning **Java, MERN Stack & AI/ML**
+- 🚀 Contributing to **Open Source Projects**
+- 💡 Interested in innovative and real-world projects
+- 💼 Looking for **Internship Opportunities**
+- ⚡ Passionate about technology, creativity & problem solving
+- 📚 Always learning and exploring new technologies
+
+</td>
+
+<td width="45%">
+
+<img align="center" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## 🌟 GitHub Stats & Activity  
 
 <p align="center">
