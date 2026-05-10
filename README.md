@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img align="center" width="100%" src="https://media.tenor.com/f3KQxwP6tSIAAAAC/anime-computer.gif"/>
+<img align="center" width="100%" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 
 </div>
 
@@ -44,7 +44,6 @@
 </tr>
 </table>
 
----
 ---
 ## 🌟 GitHub Stats & Activity  
 
