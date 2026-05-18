@@ -6,7 +6,7 @@
 
 # Hey there !! 👋, I'm Renu Kumari Prajapati 🚀
 
-### 🌟 Full Stack Developer | 
+### 🌟 Full Stack Developer | AI • ML • Data Science Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB6BD9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Data+Science+Explorer+🤖;Open+Source+Contributor+🚀;DSA+Enthusiast+⚡;Building+Creative+%26+Real-World+Projects+✨" alt="Typing SVG" />
 
