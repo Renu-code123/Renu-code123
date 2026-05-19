@@ -14,7 +14,6 @@
 
 <img src="https://img.shields.io/github/followers/Renu-code123?style=for-the-badge&logo=github&color=BB6BD9&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/stars/Renu-code123?affiliations=OWNER&style=for-the-badge&logo=github&color=8A2BE2&labelColor=1a1b27"/>
-<img src="https://komarev.com/ghpvc/?username=Renu-code123&style=for-the-badge&color=FF69B4"/>
 
 <br><br>
 
